@@ -1,0 +1,42 @@
+.calc {
+    text-align: center;
+    color: rgb(124, 12, 124);
+    font-size: 40px;
+    font-family: 'Potta One', cursive;
+    transition: 0.1s ease;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.calc p {
+    margin-bottom: 0px;
+}
+.calc b {
+    font-size: 18px;
+}
+.calc select {
+    border: 1px solid rgb(124, 12, 124);
+    border-radius: 50px;
+    padding: 5px;
+}
+.calc input {
+    font-size: 18px;
+    border: 1px solid rgb(124, 12, 124);
+    border-radius: 50px;
+    text-align: center;
+    -moz-appearance: textfield;
+}
+@media (max-height: 800px) {
+    .calc {
+        top: 50%;
+    }
+}
+@media (max-width: 700px) {
+    .calc b {
+        font-size: 12px;
+    }
+    .calc input {
+        font-size: 12px;
+    }
+}

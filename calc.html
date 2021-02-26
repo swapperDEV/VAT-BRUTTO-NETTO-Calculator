@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <script src="https://kit.fontawesome.com/71ecc900fa.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="calc.css">
+    
+</head>
+<body>
+    <label for="check">
+        <input type="checkbox" class="checkin" id="check"/> 
+        <span></span>
+        <span></span>
+        <span></span>
+    </label>
+    <div class="red">
+        <ul>
+            <li><a href="index.html">Start</a><i class="fas fa-play-circle"></i></li>
+            <li><a href="calc.html">Brutto Netto</a><i class="fas fa-calculator"></i></li>
+            <li>-</li>
+        </ul>
+    </div>
+
+
+    <div class="calc">
+        <p>Kalkulator</p>
+        <select class="type" onfocus="calcit()">
+            <option value="bn">
+                Brutto -> Netto
+            </option>
+            <option value="nb">
+                Netto -> Brutto
+            </option>
+        </select></br>
+        <input type="number" class="price" onfocus="calcit()"> 
+        <b>Price</b><br/>
+        <input type="number" class="num" onfocus="calcit()">
+        <b>VAT %</b>
+        <br/>
+        <b class="much">---<b class="name"> -</b></b>
+    </div>
+    <script src="index.js"></script>
+    <script src="calc.js"></script>
+</body>
+</html>
