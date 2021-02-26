@@ -15,3 +15,252 @@ check.addEventListener('click',() => {
         console.log('menu off');
     }
 })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
+console.log('clear console');
